@@ -1,0 +1,7 @@
+faster-whisper==1.2.1
+keyboard==0.13.5
+numpy==2.2.6
+Pillow==12.1.1
+PyAudio==0.2.14
+pystray==0.19.5
+SpeechRecognition==3.14.4
